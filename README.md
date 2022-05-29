@@ -30,7 +30,7 @@
   ## Links
   GitHub Repository: https://github.com/wizzle13/my-employee-tracker
 
-  GitHub URL: https://wizzle13.github.io/store_e-commerce
+  Video URL: https://drive.google.com/drive/folders/1czvzOhJv8g8ee-K1Z9A9-SeFugAxS-1i?usp=sharing
 
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
